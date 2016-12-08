@@ -10,7 +10,6 @@
 // ==/UserScript==
 
 function hidebar(){
-    
     $("._n_h").css("display","none");
     $(".conductorContent").parent().css("right","0px");
     

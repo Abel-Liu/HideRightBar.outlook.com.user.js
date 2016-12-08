@@ -11,10 +11,10 @@
 
 function hidebar(){
     
-    $("._n_p").css("display","none");
+    $("._n_h").css("display","none");
     $(".conductorContent").parent().css("right","0px");
     
-    console.log("hide");
+    //console.log("hide");
     setTimeout(hidebar, 1000);
 }
 

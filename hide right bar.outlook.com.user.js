@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hide outlook rightbar
 // @namespace    http://abelliu.com
-// @version      0.1
+// @version      0.2
 // @description  hide outlook rightbar
 // @author       abel
 // @require      https://code.jquery.com/jquery-2.2.2.min.js

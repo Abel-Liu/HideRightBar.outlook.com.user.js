@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hide outlook rightbar
 // @namespace    http://abelliu.com
-// @version      0.2
+// @version      0.3
 // @description  hide outlook rightbar
 // @author       abel
 // @require      https://code.jquery.com/jquery-2.2.2.min.js
@@ -13,7 +13,6 @@ function hidebar(){
     $("._n_h").css("display","none");
     $(".conductorContent").parent().css("right","0px");
     
-    //console.log("hide");
     setTimeout(hidebar, 1000);
 }
 

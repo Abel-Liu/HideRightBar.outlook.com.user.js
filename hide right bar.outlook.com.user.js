@@ -7,6 +7,7 @@
 // @require      https://code.jquery.com/jquery-2.2.2.min.js
 // @include      https://outlook.live.com/*
 // @grant		 none
+// @license      MIT
 // ==/UserScript==
 
 function hidebar(){
